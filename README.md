@@ -1,7 +1,7 @@
 # *Conway’s Game of Life* Using FPGA
-> Presented by Gerin Fajardo, Kevin Foyet, Tyler Marts, and Raymond Wong
-> ECE 3300.02 - Digital Circuit Design Using Verilog
-> Professor Mohamed Aly // California State Polytechnic University, Pomona
+> Presented by Gerin Fajardo, Kevin Foyet, Tyler Marts, and Raymond Wong  <br/>
+> ECE 3300.02 - Digital Circuit Design Using Verilog  <br/>
+> Professor Mohamed Aly // California State Polytechnic University, Pomona  <br/>
 
 
 ## ABSTRACT
