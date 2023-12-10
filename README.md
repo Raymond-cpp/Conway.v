@@ -4,7 +4,7 @@
 > Professor Mohamed Aly // California State Polytechnic University, Pomona  <br/>
 
 ## Video
-[![https://img.youtube.com/vi/CcwDj1lyKrI/0.jpg]](https://www.youtube.com/watch?v=CcwDj1lyKrI)
+[![thumbnail](https://img.youtube.com/vi/CcwDj1lyKrI/0.jpg)](https://www.youtube.com/watch?v=CcwDj1lyKrI)
 
 ## ABSTRACT
 
