@@ -4,7 +4,7 @@ ECE 3300.02 - Digital Circuit Design Using Verilog  <br/>
 Professor Mohamed Aly, Ph.D // California State Polytechnic University, Pomona  <br/>
 
 ## Demonstration Video
-[![thumbnail](https://img.youtube.com/vi/CcwDj1lyKrI/0.jpg)](https://www.youtube.com/watch?v=CcwDj1lyKrI)
+[![img:vid_thumbnail](https://img.youtube.com/vi/CcwDj1lyKrI/0.jpg)](https://www.youtube.com/watch?v=CcwDj1lyKrI)
 
 ## Abstract
 > *This abstract is an excerpt from a longer report, the full report can be accessed [here](https://docs.google.com/document/d/1esijIz1XCN74vlpnBnkL7jEymoO07kjb9qlBPdcqF9o).
@@ -20,3 +20,7 @@ Cells live or die based on four rules:
 This project report will focus on recreating this game through the use of the Nexys A7 FPGA board, and the hardware description language (HDL) Verilog will be used to program it to follow the game’s rules.
 
 On the Nexys A7 board, eleven of the sixteen switches will be used as an 8-bit speed control, overflow control, enable, and reset. All buttons will be used to control the location of the cursor, as well as a toggle for a cell’s state. Lastly, seven of the eight seven-segment display digits will be used to display the value of the speed and the current generation of the game. As for the visuals, a 16x16 grid will be displayed through a VGA interface on a connected monitor.
+
+# Controls & Output
+| ![img:nexys_a7_controls](https://github.com/Raymond-exe/Conway.v/assets/42707243/05eb05ea-bf4d-4c42-b5f0-8466407c0190) | ![img:display](https://github.com/Raymond-exe/Conway.v/assets/42707243/cc5fa935-eb8a-4adc-9eb4-0fd7a96c14f7) |
+|-|-|
